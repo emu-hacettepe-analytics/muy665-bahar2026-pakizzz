@@ -2,15 +2,154 @@
 title: "Çalışma 1"
 ---
 
-\
-(Aşağıdakiler örnek olarak verilmiştir.)
 
-Bu çalışmada 3 görevimiz var. Bu görevler..... Bunlara sırayla aşağıda cevap arıyoruz.
 
-## (a)
+**3-a**
+
+Kaynaklardan "Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Baykal Hafızoğlu & Erdi Daşdemir" videosunu seçtim.
+
+Burada genel olarak OR tanımının dışına çıkılarak Analitik Dünyası'na genel bakıştan bahsedilmiş. Bu noktada Analitik Dünya'sını dört ana çerçevede inceleyebiliriz;
+
+-Descriptive Analytics : Bir şeyleri tanımlamaya çalışan, herhangi bir datadan basit çıkarımlar yapan analitik yöntemler. Basit ama kritik bir yöntem.
+
+-Diagnostics Analytics : Bir sorun var ve sorunun neden kaynaklandığını inceleyen bir yöntem.
+
+-Predictive Analytics : Gelecekte ne olacak konularına bakan bir yöntem.
+
+-Prescriptive Analytics : Belirli aksiyonlar alacağımız bir yöntem
+
+**3-b**
+
+**Sorular**
+
+**1-**Problemi nasıl tanımlarsınız? Key Performance Indicator(KPI) neden önemlidir?
+
+**Cevap:**
+
+Tüm projeler net bir problem tanımıyla başlar. Bu problemlerde ölçülebilir değerler kullanmak oldukça önemlidir. Problemleri herkesin anladığı bir dilde (analitik bir dilde) tanımlamamız, bu problemi sayısal bir metriğe bağlamamız gerekir. Problemleri çözmek için harika yöntemlerimiz olabilir (örneğin makine öğrenmesi yöntemleri) ancak asıl problem son kullanıcı tarafından net bir şekilde anlaşılmazsa çözüm her anlamda yanlış olacaktır.
+
+**2-**Aşağıdaki ifadelerden;
+
+**I.**Son kullanıcı %99 oranında haklıdır
+
+**II.**Basit/daha az verimli çözüm, karmaşık/daha verimli çözümden daha iyidir.
+
+**III.**Kullanıcı arayüzü kritik değildir.
+
+hangileri **doğrudur**?
+
+**A)** I ve III
+
+**B)** II ve III
+
+**C)** I, II, III
+
+**D)** I ve II
+
+**Cevap:** D şıkkı. Kullanıcı arayüzü oldukça kritiktir. Kullanıcı arayüzünün temiz ve kullanılabiliyor olması son kullanıcı için çok önemli.
+
+**4**
 
 ```{r}
-1 + 1
+#Paketi içe aktar;
+
+#install.packages("dslabs")
+library(dslabs)
+data("polls_us_election_2016")
+data <- polls_us_election_2016
 ```
 
-## (b)
+```{r}
+#İki değişken tanımlayarak kendi bilgilerine göre güncelle;
+
+my_first <- "Pakize"
+my_birth_year <- 1995
+```
+
+
+```{r}
+#K tamsayısını tanımlıyoruz;
+
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+
+```
+
+
+```{r}
+#k adet satır;
+
+if (k %% 2 == 0) {
+  knitr::kable(head(data, k))
+} else {
+  knitr::kable(tail(data, k))
+}
+```
+
+```{r}
+#Toplam NA(eksik) sayısı;
+
+total_na <- sum(is.na(data))
+total_na
+```
+
+
+```{r}
+#Büyükten küçüğe ilk 8;
+
+na_per_column <- colSums(is.na(data))
+na_sorted <- sort(na_per_column, decreasing = TRUE)
+
+knitr::kable(as.data.frame(head(na_sorted, 8)), col.names = c("NA_Count"))
+
+```
+
+
+
+```{r}
+#Numeric sütunu için;
+
+new_data <- data
+numeric_cols <- sapply(new_data, is.numeric)
+
+new_data[numeric_cols] <- lapply(new_data[numeric_cols], function(col) {
+  col[is.na(col)] <- my_birth_year + k
+  col
+})
+  
+```
+
+
+```{r}
+#Character ve factor sütunları için;
+
+char_factor_cols <- sapply(new_data, function(col) is.character(col) || is.factor(col))
+
+new_data[char_factor_cols] <- lapply(new_data[char_factor_cols], function(col) {
+  col <- as.character(col)
+  col[is.na(col)] <- paste0(my_first, "_", k)
+  col
+})
+```
+
+```{r}
+#Yeni data frame;
+
+if (k %% 2 == 0) {
+  knitr::kable(head(new_data, k))
+} else {
+  knitr::kable(tail(new_data, k))
+}
+```
+
+```{r}
+#Yeni data frame deki toplam NA sayısı;
+
+new_total_na <- sum(is.na(new_data))
+new_total_na
+```
+
+```{r}
+#Bu komut FALSE dönmeli;
+
+anyNA(new_data)
+```

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Analitik sayfama hoş geldiniz",
     "section": "",
-    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu analitik çalışmalarımızı paylaşıyorum.\n\n\n\n Back to top"
+    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu sayfada analitik çalışmalarımı paylaşıyorum.\nBen Pakize HERGÜL KAYA\n\n\n\n Back to top"
   },
   {
     "objectID": "teammembers/volkansonmez.html",
@@ -227,11 +227,11 @@
   {
     "objectID": "portfolyo.html",
     "href": "portfolyo.html",
-    "title": "Portfolyo",
+    "title": "Portfolyom",
     "section": "",
     "text": "Bu sayfada, MUY665 İş Analitiği dersi 2025-2026 bahar dönemi boyunca yaptığım analitik çalışmalarımı sunmaktayım. Çalışmalarıma sol menüden ulaşabilirsiniz.\n\n\n\n Back to top",
     "crumbs": [
-      "Portfolyo"
+      "Portfolyom"
     ]
   },
   {
@@ -249,7 +249,7 @@
     "href": "proje.html",
     "title": "Proje X (proje adını yazınız)",
     "section": "",
-    "text": "Proje sayfamıza hoş geldiniz.\nProjemizle ilgili güncellemelerden haberdar olmak için bu alanı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
+    "text": "Projemizle ilgili güncellemelerden haberdar olmak için bu xxxxx bağlantısındaki proje sayfamızı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
   },
   {
     "objectID": "proje.html#data-source",
@@ -312,7 +312,7 @@
     "href": "portfolyo/calisma2.html",
     "title": "Çalışma 2",
     "section": "",
-    "text": "(Aşağıdakiler örnek olarak verilmiştir.)\nBu çalışmada 3 görevimiz var. Bu görevler….. Bunlara sırayla aşağıda cevap arıyoruz.",
+    "text": "Bu alan ikinci ödev gelene kadar kullanılmayacaktır.\n\n\n\n Back to top",
     "crumbs": [
       "Çalışma 2"
     ]
@@ -322,7 +322,7 @@
     "href": "portfolyo/calisma1.html",
     "title": "Çalışma 1",
     "section": "",
-    "text": "(Aşağıdakiler örnek olarak verilmiştir.)\nBu çalışmada 3 görevimiz var. Bu görevler….. Bunlara sırayla aşağıda cevap arıyoruz.",
+    "text": "3-a\nKaynaklardan “Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Baykal Hafızoğlu & Erdi Daşdemir” videosunu seçtim.\nBurada genel olarak OR tanımının dışına çıkılarak Analitik Dünyası’na genel bakıştan bahsedilmiş. Bu noktada Analitik Dünya’sını dört ana çerçevede inceleyebiliriz;\n-Descriptive Analytics : Bir şeyleri tanımlamaya çalışan, herhangi bir datadan basit çıkarımlar yapan analitik yöntemler. Basit ama kritik bir yöntem.\n-Diagnostics Analytics : Bir sorun var ve sorunun neden kaynaklandığını inceleyen bir yöntem.\n-Predictive Analytics : Gelecekte ne olacak konularına bakan bir yöntem.\n-Prescriptive Analytics : Belirli aksiyonlar alacağımız bir yöntem\n3-b\nSorular\n1-Problemi nasıl tanımlarsınız? Key Performance Indicator(KPI) neden önemlidir?\nCevap:\nTüm projeler net bir problem tanımıyla başlar. Bu problemlerde ölçülebilir değerler kullanmak oldukça önemlidir. Problemleri herkesin anladığı bir dilde (analitik bir dilde) tanımlamamız, bu problemi sayısal bir metriğe bağlamamız gerekir. Problemleri çözmek için harika yöntemlerimiz olabilir (örneğin makine öğrenmesi yöntemleri) ancak asıl problem son kullanıcı tarafından net bir şekilde anlaşılmazsa çözüm her anlamda yanlış olacaktır.\n2-Aşağıdaki ifadelerden;\nI.Son kullanıcı %99 oranında haklıdır\nII.Basit/daha az verimli çözüm, karmaşık/daha verimli çözümden daha iyidir.\nIII.Kullanıcı arayüzü kritik değildir.\nhangileri doğrudur?\nA) I ve III\nB) II ve III\nC) I, II, III\nD) I ve II\nCevap: D şıkkı. Kullanıcı arayüzü oldukça kritiktir. Kullanıcı arayüzünün temiz ve kullanılabiliyor olması son kullanıcı için çok önemli.\n4\n\n#Paketi içe aktar;\n\n#install.packages(\"dslabs\")\nlibrary(dslabs)\ndata(\"polls_us_election_2016\")\ndata &lt;- polls_us_election_2016\n\n\n#İki değişken tanımlayarak kendi bilgilerine göre güncelle;\n\nmy_first &lt;- \"Pakize\"\nmy_birth_year &lt;- 1995\n\n\n#K tamsayısını tanımlıyoruz;\n\nk &lt;- (nchar(my_first) + my_birth_year) %% 15 + 8\n\n\n#k adet satır;\n\nif (k %% 2 == 0) {\n  knitr::kable(head(data, k))\n} else {\n  knitr::kable(tail(data, k))\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nstate\nstartdate\nenddate\npollster\ngrade\nsamplesize\npopulation\nrawpoll_clinton\nrawpoll_trump\nrawpoll_johnson\nrawpoll_mcmullin\nadjpoll_clinton\nadjpoll_trump\nadjpoll_johnson\nadjpoll_mcmullin\n\n\n\n\nU.S.\n2016-11-03\n2016-11-06\nABC News/Washington Post\nA+\n2220\nlv\n47.00\n43.00\n4.00\nNA\n45.20163\n41.72430\n4.626221\nNA\n\n\nU.S.\n2016-11-01\n2016-11-07\nGoogle Consumer Surveys\nB\n26574\nlv\n38.03\n35.69\n5.46\nNA\n43.34557\n41.21439\n5.175792\nNA\n\n\nU.S.\n2016-11-02\n2016-11-06\nIpsos\nA-\n2195\nlv\n42.00\n39.00\n6.00\nNA\n42.02638\n38.81620\n6.844734\nNA\n\n\nU.S.\n2016-11-04\n2016-11-07\nYouGov\nB\n3677\nlv\n45.00\n41.00\n5.00\nNA\n45.65676\n40.92004\n6.069454\nNA\n\n\nU.S.\n2016-11-03\n2016-11-06\nGravis Marketing\nB-\n16639\nrv\n47.00\n43.00\n3.00\nNA\n46.84089\n42.33184\n3.726098\nNA\n\n\nU.S.\n2016-11-03\n2016-11-06\nFox News/Anderson Robbins Research/Shaw & Company Research\nA\n1295\nlv\n48.00\n44.00\n3.00\nNA\n49.02208\n43.95631\n3.057876\nNA\n\n\nU.S.\n2016-11-02\n2016-11-06\nCBS News/New York Times\nA-\n1426\nlv\n45.00\n41.00\n5.00\nNA\n45.11649\n40.92722\n4.341786\nNA\n\n\nU.S.\n2016-11-03\n2016-11-05\nNBC News/Wall Street Journal\nA-\n1282\nlv\n44.00\n40.00\n6.00\nNA\n43.58576\n40.77325\n5.365788\nNA\n\n\nNew Mexico\n2016-11-06\n2016-11-06\nZia Poll\nNA\n8439\nlv\n46.00\n44.00\n6.00\nNA\n44.82594\n41.59978\n7.870127\nNA\n\n\nU.S.\n2016-11-04\n2016-11-07\nIBD/TIPP\nA-\n1107\nlv\n41.20\n42.70\n7.10\nNA\n42.92745\n42.23545\n6.316175\nNA\n\n\nU.S.\n2016-11-04\n2016-11-06\nSelzer & Company\nA+\n799\nlv\n44.00\n41.00\n4.00\nNA\n44.21714\n40.57082\n4.068708\nNA\n\n\nU.S.\n2016-11-01\n2016-11-04\nAngus Reid Global\nA-\n1151\nlv\n48.00\n44.00\n6.00\nNA\n47.57171\n43.68125\n5.556625\nNA\n\n\nU.S.\n2016-11-03\n2016-11-06\nMonmouth University\nA+\n748\nlv\n50.00\n44.00\n4.00\nNA\n48.86765\n43.39600\n4.838600\nNA\n\n\nVirginia\n2016-11-03\n2016-11-04\nPublic Policy Polling\nB+\n1238\nlv\n48.00\n43.00\n1.00\nNA\n47.43805\n42.32751\n2.207659\nNA\n\n\n\n\n\n\n#Toplam NA(eksik) sayısı;\n\ntotal_na &lt;- sum(is.na(data))\ntotal_na\n\n[1] 11604\n\n\n\n#Büyükten küçüğe ilk 8;\n\nna_per_column &lt;- colSums(is.na(data))\nna_sorted &lt;- sort(na_per_column, decreasing = TRUE)\n\nknitr::kable(as.data.frame(head(na_sorted, 8)), col.names = c(\"NA_Count\"))\n\n\n\n\n\nNA_Count\n\n\n\n\nrawpoll_mcmullin\n4178\n\n\nadjpoll_mcmullin\n4178\n\n\nrawpoll_johnson\n1409\n\n\nadjpoll_johnson\n1409\n\n\ngrade\n429\n\n\nsamplesize\n1\n\n\nstate\n0\n\n\nstartdate\n0\n\n\n\n\n\n\n#Numeric sütunu için;\n\nnew_data &lt;- data\nnumeric_cols &lt;- sapply(new_data, is.numeric)\n\nnew_data[numeric_cols] &lt;- lapply(new_data[numeric_cols], function(col) {\n  col[is.na(col)] &lt;- my_birth_year + k\n  col\n})\n\n\n#Character ve factor sütunları için;\n\nchar_factor_cols &lt;- sapply(new_data, function(col) is.character(col) || is.factor(col))\n\nnew_data[char_factor_cols] &lt;- lapply(new_data[char_factor_cols], function(col) {\n  col &lt;- as.character(col)\n  col[is.na(col)] &lt;- paste0(my_first, \"_\", k)\n  col\n})\n\n\n#Yeni data frame;\n\nif (k %% 2 == 0) {\n  knitr::kable(head(new_data, k))\n} else {\n  knitr::kable(tail(new_data, k))\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nstate\nstartdate\nenddate\npollster\ngrade\nsamplesize\npopulation\nrawpoll_clinton\nrawpoll_trump\nrawpoll_johnson\nrawpoll_mcmullin\nadjpoll_clinton\nadjpoll_trump\nadjpoll_johnson\nadjpoll_mcmullin\n\n\n\n\nU.S.\n2016-11-03\n2016-11-06\nABC News/Washington Post\nA+\n2220\nlv\n47.00\n43.00\n4.00\n2009\n45.20163\n41.72430\n4.626221\n2009\n\n\nU.S.\n2016-11-01\n2016-11-07\nGoogle Consumer Surveys\nB\n26574\nlv\n38.03\n35.69\n5.46\n2009\n43.34557\n41.21439\n5.175792\n2009\n\n\nU.S.\n2016-11-02\n2016-11-06\nIpsos\nA-\n2195\nlv\n42.00\n39.00\n6.00\n2009\n42.02638\n38.81620\n6.844734\n2009\n\n\nU.S.\n2016-11-04\n2016-11-07\nYouGov\nB\n3677\nlv\n45.00\n41.00\n5.00\n2009\n45.65676\n40.92004\n6.069454\n2009\n\n\nU.S.\n2016-11-03\n2016-11-06\nGravis Marketing\nB-\n16639\nrv\n47.00\n43.00\n3.00\n2009\n46.84089\n42.33184\n3.726098\n2009\n\n\nU.S.\n2016-11-03\n2016-11-06\nFox News/Anderson Robbins Research/Shaw & Company Research\nA\n1295\nlv\n48.00\n44.00\n3.00\n2009\n49.02208\n43.95631\n3.057876\n2009\n\n\nU.S.\n2016-11-02\n2016-11-06\nCBS News/New York Times\nA-\n1426\nlv\n45.00\n41.00\n5.00\n2009\n45.11649\n40.92722\n4.341786\n2009\n\n\nU.S.\n2016-11-03\n2016-11-05\nNBC News/Wall Street Journal\nA-\n1282\nlv\n44.00\n40.00\n6.00\n2009\n43.58576\n40.77325\n5.365788\n2009\n\n\nNew Mexico\n2016-11-06\n2016-11-06\nZia Poll\nPakize_14\n8439\nlv\n46.00\n44.00\n6.00\n2009\n44.82594\n41.59978\n7.870127\n2009\n\n\nU.S.\n2016-11-04\n2016-11-07\nIBD/TIPP\nA-\n1107\nlv\n41.20\n42.70\n7.10\n2009\n42.92745\n42.23545\n6.316175\n2009\n\n\nU.S.\n2016-11-04\n2016-11-06\nSelzer & Company\nA+\n799\nlv\n44.00\n41.00\n4.00\n2009\n44.21714\n40.57082\n4.068708\n2009\n\n\nU.S.\n2016-11-01\n2016-11-04\nAngus Reid Global\nA-\n1151\nlv\n48.00\n44.00\n6.00\n2009\n47.57171\n43.68125\n5.556625\n2009\n\n\nU.S.\n2016-11-03\n2016-11-06\nMonmouth University\nA+\n748\nlv\n50.00\n44.00\n4.00\n2009\n48.86765\n43.39600\n4.838600\n2009\n\n\nVirginia\n2016-11-03\n2016-11-04\nPublic Policy Polling\nB+\n1238\nlv\n48.00\n43.00\n1.00\n2009\n47.43805\n42.32751\n2.207659\n2009\n\n\n\n\n\n\n#Yeni data frame deki toplam NA sayısı;\n\nnew_total_na &lt;- sum(is.na(new_data))\nnew_total_na\n\n[1] 0\n\n\n\n#Bu komut FALSE dönmeli;\n\nanyNA(new_data)\n\n[1] FALSE\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Çalışma 1"
     ]
@@ -388,7 +388,7 @@
     "href": "portfolyo/calisma1.html#a",
     "title": "Çalışma 1",
     "section": "(a)",
-    "text": "(a)\n\n1 + 1\n\n[1] 2",
+    "text": "(a)",
     "crumbs": [
       "Çalışma 1"
     ]
@@ -398,7 +398,7 @@
     "href": "portfolyo/calisma2.html#a",
     "title": "Çalışma 2",
     "section": "(a)",
-    "text": "(a)\n\n1 + 1\n\n[1] 2",
+    "text": "(a)",
     "crumbs": [
       "Çalışma 2"
     ]
@@ -564,5 +564,19 @@
     "title": "My Blog",
     "section": "",
     "text": "Bu sayfa yapım aşamasındadır.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#staj",
+    "href": "about.html#staj",
+    "title": "Hakkımda",
+    "section": "Staj",
+    "text": "Staj\n\nTürk Telekom - Stajyer - 2018\nBaşarsoft - Stajyer - 2017"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hakkımda",
+    "section": "",
+    "text": "Eğitim\n\nYüksek Lisans - Hacettepe Üniversitesi - Mühendislik Yönetimi\nLisans - Kırıkkale Üniversitesi - Bilgisayar Mühendisliği Bölümü\nLise - Çağlayan Anadolu Lisesi\n\n\n\nİş Tecrübesi\n\nBites Defence / Aselsan Akyurt Yerleşkesi - Aviyonik Yazılım Test Uzmanı &gt;2026\nTaskin Logistics - Yazılım Uzmanı &gt; 2022\n\n\n\nStaj\n\nTürk Telekom - Stajyer - 2018\nBaşarsoft - Stajyer - 2017\n\n\n\nSertifikalar\n\nISTQB Foundation Level\n\nDetaylı CV\n\n\n\n\n Back to top"
   }
 ]

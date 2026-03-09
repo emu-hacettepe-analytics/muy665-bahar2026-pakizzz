@@ -5,4 +5,6 @@ sidebar: false
 
 MUY660-İş Analitiği dersi sayfama hoş geldiniz.
 
-Bu analitik çalışmalarımızı paylaşıyorum.
+Bu sayfada analitik çalışmalarımı paylaşıyorum.
+
+Ben Pakize HERGÜL KAYA

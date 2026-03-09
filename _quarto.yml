@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "[xxxx]'in Analitik Labı"
+  title: "Pakize HERGÜL KAYA'nın Analitik Labı"
   navbar:
     search: true
     left:
-      - text: Anasayfa
+      - text: Anasayfamm
         href: index.qmd
       - text: Hakkımda
         href: about.qmd
@@ -22,11 +22,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/pakizzz
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/pakize-herg%C3%BCl-kaya-54bab811b/
 
   sidebar:
     - title: "Çalışmalar"

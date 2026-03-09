@@ -3,38 +3,28 @@ title: "Hakkımda"
 sidebar: false 
 ---
 
-![](assets/images/vesikalik.jpeg){fig-align="center"}
+![](images/tmp_8818f498-1953-4c23-b76c-440744684d70.jpeg){width="199"}
 
 # Eğitim
 
--   B.S., ................................., ....................................University, Turkey, 20xx - 20xx.
--   M.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
--   Ph.D.., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   Yüksek Lisans - Hacettepe Üniversitesi - Mühendislik Yönetimi
+-   Lisans - Kırıkkale Üniversitesi - Bilgisayar Mühendisliği Bölümü
+-   Lise - Çağlayan Anadolu Lisesi
 
 # İş Tecrübesi
 
-## Employements
+1.  Bites Defence / Aselsan Akyurt Yerleşkesi - Aviyonik Yazılım Test Uzmanı \>2026
 
-1.  Firm xxx, position xx, year xxx
+2.  Taskin Logistics - Yazılım Uzmanı \> 2022
 
-2.  Firm yyy, position yyy, year yyy
+# Staj
 
-## Internships
+1.  Türk Telekom - Stajyer - 2018
 
-1.  Firm aaa, position xx, year xxx
+2.  Başarsoft - Stajyer - 2017
 
-2.  Firm bbb, position yyy, year yyy
+# Sertifikalar
 
-# Projects
+1.  ISTQB Foundation Level
 
-1.  TUBİTAK 1001..........................
-
-# Publications
-
-1.  Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
-
-# Competencies
-
-R, Quarto, Git, Python
-
-# Hobbies
+[Detaylı CV](C:\Users\pakiz\OneDrive\Belgeler\GitHub\muy665-bahar2026-pakizzz)
