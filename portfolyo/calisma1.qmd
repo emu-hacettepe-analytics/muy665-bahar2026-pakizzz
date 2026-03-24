@@ -2,8 +2,6 @@
 title: "Çalışma 1"
 ---
 
-
-
 **3-a**
 
 Kaynaklardan "Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Baykal Hafızoğlu & Erdi Daşdemir" videosunu seçtim.
@@ -66,14 +64,12 @@ my_first <- "Pakize"
 my_birth_year <- 1995
 ```
 
-
 ```{r}
 #K tamsayısını tanımlıyoruz;
 
 k <- (nchar(my_first) + my_birth_year) %% 15 + 8
 
 ```
-
 
 ```{r}
 #k adet satır;
@@ -92,7 +88,6 @@ total_na <- sum(is.na(data))
 total_na
 ```
 
-
 ```{r}
 #Büyükten küçüğe ilk 8;
 
@@ -102,8 +97,6 @@ na_sorted <- sort(na_per_column, decreasing = TRUE)
 knitr::kable(as.data.frame(head(na_sorted, 8)), col.names = c("NA_Count"))
 
 ```
-
-
 
 ```{r}
 #Numeric sütunu için;
@@ -117,7 +110,6 @@ new_data[numeric_cols] <- lapply(new_data[numeric_cols], function(col) {
 })
   
 ```
-
 
 ```{r}
 #Character ve factor sütunları için;

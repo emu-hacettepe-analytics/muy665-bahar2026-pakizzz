@@ -1,6 +1,8 @@
 ---
 title: "Analitik sayfama hoş geldiniz"
 sidebar: false 
+theme: flatly
+css: styles.css
 ---
 
 MUY660-İş Analitiği dersi sayfama hoş geldiniz.

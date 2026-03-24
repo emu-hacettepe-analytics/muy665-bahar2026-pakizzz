@@ -1,6 +1,8 @@
 ---
 title: "Hakkımda"
 sidebar: false 
+theme: flatly
+css: styles.css
 ---
 
 ![](images/tmp_8818f498-1953-4c23-b76c-440744684d70.jpeg){width="199"}
