@@ -46,7 +46,6 @@ format:
     toc: true
     toc-location: left
     theme: flatly
-      
     css: styles.css
 
 
