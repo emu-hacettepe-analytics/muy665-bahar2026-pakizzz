@@ -1,5 +1,7 @@
 ---
 title: "Çalışma 2"
+theme: flatly
+css: styles.css
 ---
 
 Bu alan ikinci ödev gelene kadar kullanılmayacaktır.

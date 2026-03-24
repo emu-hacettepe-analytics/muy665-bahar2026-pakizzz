@@ -1,5 +1,7 @@
 ---
 title: "Çalışma 1"
+theme: flatly
+css: styles.css
 ---
 
 **3-a**
