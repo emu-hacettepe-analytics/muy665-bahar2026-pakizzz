@@ -27,4 +27,6 @@ sidebar: false
 
 1.  ISTQB Foundation Level
 
-[Detaylı CV](C:\Users\pakiz\OneDrive\Belgeler\GitHub\muy665-bahar2026-pakizzz)
+
+📄 **[CV'mi görüntüle](cv.pdf)**
+
