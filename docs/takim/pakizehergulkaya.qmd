@@ -1,17 +1,17 @@
 ---
-title: "Hakkımda"
+title: "Pakize Hergül Kaya"
 sidebar: false 
 theme: flatly
 css: styles.css
 ---
 
-![](images/tmp_8818f498-1953-4c23-b76c-440744684d70.jpeg){width="199"}
+![](phk_vesikalık.jpeg){width="199"}
 
 # Eğitim
 
-- Yüksek Lisans - Hacettepe Üniversitesi - Mühendislik Yönetimi
-- Lisans - Kırıkkale Üniversitesi - Bilgisayar Mühendisliği Bölümü
-- Lise - Çağlayan Anadolu Lisesi
+-   Yüksek Lisans - Hacettepe Üniversitesi - Mühendislik Yönetimi
+-   Lisans - Kırıkkale Üniversitesi - Bilgisayar Mühendisliği Bölümü
+-   Lise - Çağlayan Anadolu Lisesi
 
 # İş Tecrübesi
 
@@ -29,4 +29,4 @@ css: styles.css
 
 1.  ISTQB Foundation Level
 
-📄 [**CV'mi görüntüle**](cv.pdf)
+📄 [**CV'mi görüntüle**](pakizehk_cv.pdf)

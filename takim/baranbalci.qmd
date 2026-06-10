@@ -1,0 +1,77 @@
+---
+title: "Baran Balcı"
+sidebar: false 
+---
+
+![](baranbalci_vesikalık.jpeg){fig-align="center" width="200"}
+
+# Özet
+
+Türksat Mobil Evrensel Hizmet Projesi kapsamında proje planlama, saha uygulamaları ve yüklenici yönetimi süreçlerinde görev yapan bir mühendis olarak çalışmaktayım. Proje süreçlerinde kalite, zaman ve maliyet odaklı bir yaklaşım benimseyerek paydaş koordinasyonu ve veri odaklı raporlama alanlarında deneyim kazandım. Aynı zamanda Hacettepe Üniversitesi Mühendislik Yönetimi yüksek lisans programında öğrenim görmekteyim.
+
+# Eğitim
+
+-   B.S., Mechanical Engineering, Kastamonu University, Turkey, 2015 - 2020.
+-   M.S., Engineering Management, Hacettepe University, Turkey, 2026 - Present.
+
+# İş Tecrübesi
+
+1.  Türksat Uydu Haberleşme ve Kablo TV İşletme A.Ş., Project&Site Engineer, 2022- Present.
+
+# Stajlar
+
+1.  Doğanlar Çelik Dövme San. Tic. A.Ş., Intern, 2019.
+
+2.  TEKSAN Hidrolik Rakor Ltd. Şti., Intern, 2017.
+
+# Projeler
+
+**Lisans Bitirme Projesi:** Otomobillerde kullanılan çarpışma kutularının farklı geometrik konfigürasyonlar altında enerji sönümleme performanslarının karşılaştırılması.
+
+LS-DYNA ortamında oluşturulan sonlu eleman modelleri üzerinde dinamik yükleme senaryoları tanımlanmış; deformasyon modları, enerji emilimi ve yapısal davranışlar analiz edilmiştir. Elde edilen sonuçlar doğrultusunda, basit ve düzenli geometrilerin (silindirik ve prizmatik yapılar) karmaşık geometrilere kıyasla daha yüksek ve kararlı enerji sönümleme performansı sağladığı gösterilmiştir.
+
+# Sertifikalar
+
+• Solidworks/Solidcam, Özel Vektörel Bilişim Bilgisayar Kursu, 23/12/2017
+
+• Geometrik Boyutlandırma ve Toleranslandırma, Udemy, 02/02/2021
+
+• ULAK Sistemleri Eğitimi, ULAK Haberleşme, 15/12/2023
+
+• Universal Network GSM and LTE Training, Huawei, 12/12/2023
+
+• IP Network Topology, Product Solution and Satellite Transmission Solution, Huawei, 28/11/2023
+
+• General MS Activities and MS Operations, Huawei, 14/12/2023
+
+• IP Microwave Training, Huawei, 30/11/2023
+
+• Project Management and PMP Exam Preparation, CPM Group Proje ve Ürün Yönetimi, 27/05/2023
+
+• Implementing and Administering Cisco Solutions (CCNA) v2.1, Knowledge Club, 23/11/2024
+
+# Yetkinlikler
+
+• Microsoft Office
+
+• Autocad
+
+• İngilizce
+
+• Mathcad
+
+• Solidworks
+
+• Almanca
+
+• CATIA
+
+# Hobiler
+
+• Basketbol
+
+• Kamp
+
+• Trekking
+
+<a href="baran-balci-cv.pdf" class="btn btn-primary" target="_blank"> <i class="bi bi-file-earmark-pdf"></i> CV'yi İndir </a>

@@ -101,9 +101,9 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "Project X",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
     "section": "",
-    "text": "Welcome to my project page.\nKeep an eye on this space to stay updated with my project activities.\n(The titles below are provided as examples; please feel free to adjust them as necessary.)"
+    "text": "Back to top"
   },
   {
     "objectID": "project.html#data-source",
@@ -247,65 +247,65 @@
   {
     "objectID": "proje.html",
     "href": "proje.html",
-    "title": "Proje yapıldığında bu sayfa aktif hale gelecektir.",
+    "title": "👥 FOUR CORNERS 👥",
     "section": "",
-    "text": "Back to top"
+    "text": "title: “ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU” number-sections: true\nformat: html: include-in-header: text: |  —"
   },
   {
     "objectID": "proje.html#data-source",
     "href": "proje.html#data-source",
-    "title": "Proje X",
-    "section": "2.1 Data Source",
-    "text": "2.1 Data Source\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "3.1 Data Source",
+    "text": "3.1 Data Source\nxxxxxx"
   },
   {
     "objectID": "proje.html#general-information-about-data",
     "href": "proje.html#general-information-about-data",
-    "title": "Proje X",
-    "section": "2.2 General Information About Data",
-    "text": "2.2 General Information About Data\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "3.2 General Information About Data",
+    "text": "3.2 General Information About Data\nxxxxxx"
   },
   {
     "objectID": "proje.html#reason-of-choice",
     "href": "proje.html#reason-of-choice",
-    "title": "Proje X",
-    "section": "2.3 Reason of Choice",
-    "text": "2.3 Reason of Choice\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "3.3 Reason of Choice",
+    "text": "3.3 Reason of Choice\nxxxxxx"
   },
   {
     "objectID": "proje.html#preprocessing",
     "href": "proje.html#preprocessing",
-    "title": "Proje X",
-    "section": "2.4 Preprocessing",
-    "text": "2.4 Preprocessing\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "3.4 Preprocessing",
+    "text": "3.4 Preprocessing\nxxxxxx"
   },
   {
     "objectID": "proje.html#exploratory-data-analysis",
     "href": "proje.html#exploratory-data-analysis",
-    "title": "Proje X",
-    "section": "3.1 Exploratory Data Analysis",
-    "text": "3.1 Exploratory Data Analysis\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "4.1 Exploratory Data Analysis",
+    "text": "4.1 Exploratory Data Analysis\nxxxxxx"
   },
   {
     "objectID": "proje.html#trend-analysis",
     "href": "proje.html#trend-analysis",
-    "title": "Proje X",
-    "section": "3.2 Trend Analysis",
-    "text": "3.2 Trend Analysis\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "4.2 Trend Analysis",
+    "text": "4.2 Trend Analysis\nxxxxxx"
   },
   {
     "objectID": "proje.html#model-fitting",
     "href": "proje.html#model-fitting",
-    "title": "Proje X",
-    "section": "3.3 Model Fitting",
-    "text": "3.3 Model Fitting\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "4.3 Model Fitting",
+    "text": "4.3 Model Fitting\nxxxxxx"
   },
   {
     "objectID": "proje.html#results",
     "href": "proje.html#results",
-    "title": "Proje X",
-    "section": "3.4 Results",
-    "text": "3.4 Results\nxxxxxx"
+    "title": "Türkiye’de Sinema Sektörünün Veri Analizi",
+    "section": "4.4 Results",
+    "text": "4.4 Results\nxxxxxx"
   },
   {
     "objectID": "portfolyo/calisma2.html",
@@ -578,5 +578,194 @@
     "title": "Hakkımda",
     "section": "",
     "text": "Eğitim\n\nYüksek Lisans - Hacettepe Üniversitesi - Mühendislik Yönetimi\nLisans - Kırıkkale Üniversitesi - Bilgisayar Mühendisliği Bölümü\nLise - Çağlayan Anadolu Lisesi\n\n\n\nİş Tecrübesi\n\nBites Defence / Aselsan Akyurt Yerleşkesi - Aviyonik Yazılım Test Uzmanı &gt;2026\nTaskin Logistics - Yazılım Uzmanı &gt; 2022\n\n\n\nStaj\n\nTürk Telekom - Stajyer - 2018\nBaşarsoft - Stajyer - 2017\n\n\n\nSertifikalar\n\nISTQB Foundation Level\n\n📄 CV’mi görüntüle\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "docs/project.html",
+    "href": "docs/project.html",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "",
+    "text": "Welcome to my project page.\nKeep an eye on this space to stay updated with my project activities.\n(The titles below are provided as examples; please feel free to adjust them as necessary.)"
+  },
+  {
+    "objectID": "docs/project.html#data-source",
+    "href": "docs/project.html#data-source",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "2.1 2.1 Data Source",
+    "text": "2.1 2.1 Data Source\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#general-information-about-data",
+    "href": "docs/project.html#general-information-about-data",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "2.2 2.2 General Information About Data",
+    "text": "2.2 2.2 General Information About Data\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#reason-of-choice",
+    "href": "docs/project.html#reason-of-choice",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "2.3 2.3 Reason of Choice",
+    "text": "2.3 2.3 Reason of Choice\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#preprocessing",
+    "href": "docs/project.html#preprocessing",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "2.4 2.4 Preprocessing",
+    "text": "2.4 2.4 Preprocessing\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#exploratory-data-analysis",
+    "href": "docs/project.html#exploratory-data-analysis",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "3.1 3.1 Exploratory Data Analysis",
+    "text": "3.1 3.1 Exploratory Data Analysis\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#trend-analysis",
+    "href": "docs/project.html#trend-analysis",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "3.2 3.2 Trend Analysis",
+    "text": "3.2 3.2 Trend Analysis\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#model-fitting",
+    "href": "docs/project.html#model-fitting",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "3.3 3.3 Model Fitting",
+    "text": "3.3 3.3 Model Fitting\nxxxxxx"
+  },
+  {
+    "objectID": "docs/project.html#results",
+    "href": "docs/project.html#results",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "3.4 3.4 Results",
+    "text": "3.4 3.4 Results\nxxxxxx"
+  },
+  {
+    "objectID": "takim/esingul.html",
+    "href": "takim/esingul.html",
+    "title": "Esin Gül",
+    "section": "",
+    "text": "CV\n\nEğitim\n\nB.S., Elektronik ve Haberleşme Mühendisliği, Çankaya Üniversitesi, 2010-2015.\nM.Sc., Nanoteknoloji ve Nanotıp, Hacettepe Üniversitesi, 2016-2019.\nM.Sc., Mühendislik Yönetimi, Hacettepe Üniversitesi, 2025-…\n\n\n\nİş Tecrübesi\n\nODTÜ MEMS Merkezi, Araştırmacı (2019-2024).\nHacettepe Üniversitesi Elektrik Elektronik Mühendisliği, Lisansüstü Proje Asistanı (2018-2019).\n\n\n\nStajlar\n\nTUSAŞ, 2012.\nTRT, 2013.\n\n\n\nYayınlar\n\nE. Gul & D. Gokcen, “Active Memristive Layer Deposition via Mn(II)-Assisted Anodic Oxidation of Titanium”, ECS Journal of Solid State Science and Technology, vol. 9, no. 5, 2020.\n\nDOI: 10.1149/2162-8777/ab9519\n\n\nMesleki Beceriler\n\nTemiz Alan Mikrofabrikasyon ve Karakterizasyon\nMatlab, Comsol, Origin\n\n\n\nHobiler\nYağlıboya, Puzzle, Dans\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "takim/baranbalci.html",
+    "href": "takim/baranbalci.html",
+    "title": "Baran Balcı",
+    "section": "",
+    "text": "Özet\nTürksat Mobil Evrensel Hizmet Projesi kapsamında proje planlama, saha uygulamaları ve yüklenici yönetimi süreçlerinde görev yapan bir mühendis olarak çalışmaktayım. Proje süreçlerinde kalite, zaman ve maliyet odaklı bir yaklaşım benimseyerek paydaş koordinasyonu ve veri odaklı raporlama alanlarında deneyim kazandım. Aynı zamanda Hacettepe Üniversitesi Mühendislik Yönetimi yüksek lisans programında öğrenim görmekteyim.\n\n\nEğitim\n\nB.S., Mechanical Engineering, Kastamonu University, Turkey, 2015 - 2020.\nM.S., Engineering Management, Hacettepe University, Turkey, 2026 - Present.\n\n\n\nİş Tecrübesi\n\nTürksat Uydu Haberleşme ve Kablo TV İşletme A.Ş., Project&Site Engineer, 2022- Present.\n\n\n\nStajlar\n\nDoğanlar Çelik Dövme San. Tic. A.Ş., Intern, 2019.\nTEKSAN Hidrolik Rakor Ltd. Şti., Intern, 2017.\n\n\n\nProjeler\nLisans Bitirme Projesi: Otomobillerde kullanılan çarpışma kutularının farklı geometrik konfigürasyonlar altında enerji sönümleme performanslarının karşılaştırılması.\nLS-DYNA ortamında oluşturulan sonlu eleman modelleri üzerinde dinamik yükleme senaryoları tanımlanmış; deformasyon modları, enerji emilimi ve yapısal davranışlar analiz edilmiştir. Elde edilen sonuçlar doğrultusunda, basit ve düzenli geometrilerin (silindirik ve prizmatik yapılar) karmaşık geometrilere kıyasla daha yüksek ve kararlı enerji sönümleme performansı sağladığı gösterilmiştir.\n\n\nSertifikalar\n• Solidworks/Solidcam, Özel Vektörel Bilişim Bilgisayar Kursu, 23/12/2017\n• Geometrik Boyutlandırma ve Toleranslandırma, Udemy, 02/02/2021\n• ULAK Sistemleri Eğitimi, ULAK Haberleşme, 15/12/2023\n• Universal Network GSM and LTE Training, Huawei, 12/12/2023\n• IP Network Topology, Product Solution and Satellite Transmission Solution, Huawei, 28/11/2023\n• General MS Activities and MS Operations, Huawei, 14/12/2023\n• IP Microwave Training, Huawei, 30/11/2023\n• Project Management and PMP Exam Preparation, CPM Group Proje ve Ürün Yönetimi, 27/05/2023\n• Implementing and Administering Cisco Solutions (CCNA) v2.1, Knowledge Club, 23/11/2024\n\n\nYetkinlikler\n• Microsoft Office\n• Autocad\n• İngilizce\n• Mathcad\n• Solidworks\n• Almanca\n• CATIA\n\n\nHobiler\n• Basketbol\n• Kamp\n• Trekking\n  CV’yi İndir \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "takim/cerenaskit.html#employementsçalışan",
+    "href": "takim/cerenaskit.html#employementsçalışan",
+    "title": "Ceren Aşkit",
+    "section": "Employements/Çalışan",
+    "text": "Employements/Çalışan\n\nBITES Defence and Aerospace, Avionics Software Test Engineer, Apr 2025 - Ongoing\nBİTES Savunma ve Havacılık, Aviyonik Yazılım Test Mühendisi, Nisan 2025 - Halen\nSIMSOFT Computer Technologies, Avionics Software Test Engineer, May 2023 - Mar 2025\nSİMSOFT Bilgisayar Teknolojileri, Aviyonik Yazılım Test Mühendisi, Mayıs 2023 - Mart 2025"
+  },
+  {
+    "objectID": "takim/cerenaskit.html#internshipsstajyer",
+    "href": "takim/cerenaskit.html#internshipsstajyer",
+    "title": "Ceren Aşkit",
+    "section": "Internships/Stajyer",
+    "text": "Internships/Stajyer\n\nBITES Defence and Aerospace, GIS Software, Aug 2021 - Sep 2021\nBİTES Savunma ve Havacılık, CBS Yazılım, Ağustos 2021 - Eylül 2021"
+  },
+  {
+    "objectID": "proje (1).html",
+    "href": "proje (1).html",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "",
+    "text": "1 👥 FOUR CORNERS 👥\n👩‍💻 Ceren Aşkit\n👩‍💻Pakize Hergül Kaya\n👩‍💻Esin Gül\n👨‍💻 Baran Balcı\n\n\n2 Proje Genel Bakış ve Kapsamı\nBu çalışma, Türkiye’de 2000-2024 yılları arasında kültürel tüketimin nasıl dönüştüğünü anlamayı amaçlamaktadır. Tiyatro, sinema ile opera ve bale sektörlerine ait seyirci verileri; nüfus büyümesi ve hanehalkı harcama yapısındaki değişimlerle birlikte ele alınarak kültürel talebi şekillendiren dinamikler çok boyutlu biçimde incelenmektedir. Projenin kapsamı iki temel eksen üzerine kuruludur. İlk eksende, sektörel seyirci trendleri zaman serisi analiziyle ortaya konmakta; pandemi ve ekonomik dalgalanmalar gibi dışsal şokların her sektörü nasıl farklı etkilediği değerlendirilmektedir. İkinci eksende ise artan nüfusun ve değişen hanehalkı bütçe önceliklerinin kültürel harcamalar üzerindeki etkisi regresyon modelleriyle analiz edilmektedir. Tüm analizler TÜİK’in kamuya açık veri setleri kullanılarak R programlama diliyle gerçekleştirilmiş; bulgular görselleştirme ağırlıklı bir yaklaşımla sunulmuştur.\n\n\n3 Veri\nTürkiye’nin son çeyrek asırdaki sosyo-ekonomik dönüşümünü, kültürel tüketim eğilimlerini ve dijitalleşme hızını arz-talep dengesi çerçevesinde ortaya koyan çok boyutlu bir görünüm sunmaktadır. Cinsiyete Göre Nüfus ve Hanehalkı Tüketim Harcaması verileri, toplumsal yapının demografik büyümesini ve ekonomik refah seviyesine bağlı olarak eğlence-kültüre ayrılan bütçe payını gösteren temel makro göstergelerdir. Tiyatro, Sinema ile Opera ve Bale veri setleri ise salon, koltuk ve eser sayılarıyla kültürel altyapının (arzın) genişlemesini; seyirci sayılarıyla da bu sanatsal faaliyetlere olan toplumsal talebin boyutu ile kırılma noktalarını (pandemi, ekonomik dalgalanmalar vb.) temsil etmektedir. Son olarak, Cinsiyete Göre İnternet Kullanım Oranı serisi, hızla yükselen dijitalleşme trendinin, bireylerin ev dışı fiziksel etkinliklere (tiyatro, opera) katılım alışkanlıkları veya dijital platformlara (sinema alternatifi olarak) yönelimleri üzerindeki dönüştürücü etkisini analiz etmeye olanak tanımaktadır.\n\n\n4 Keşifsel Veri Analizi ve Ön İşleme\nÇalışma kapsamında kullanılan TÜİK veri setleri analiz öncesinde ön işleme sürecinden geçirilmiştir. Bu süreçte veri setlerinde bulunan gereksiz satır ve sütunlar temizlenmiş, sütun isimleri düzenlenmiş ve veri tipleri analiz için uygun hale getirilmiştir.\nTÜİK’ten dışa aktarılan bazı Excel dosyalarının standart tablo yapısında olmaması nedeniyle veri setlerinde yüksek sayıda NA (eksik değer) oluşmuştur. Yapılan incelemelerde bu eksik değerlerin büyük kısmının veri kaybından değil, Excel dosyalarının yapısal formatından kaynaklandığı görülmüştür.\nEksik verilerin giderilmesi amacıyla farklı yöntemlerden yararlanılmıştır. Bazı eksik değerler önceki yıllardaki verilere göre doldurulmuş, bazı alanlarda doğrusal artış yaklaşımı kullanılmış, ayrıca uygun veri setlerinde interpolasyon yöntemi uygulanmıştır. Böylece analiz ve görselleştirme işlemleri için daha düzenli ve kullanılabilir veri setleri elde edilmiştir.\nAyrıca farklı veri setleri yıllar bazında ortak bir yapıda birleştirilmiş ve analiz süreçlerine uygun veri formatı oluşturulmuştur.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "proje.html#veride-bulunan-sütunlardaki-na-sayısı",
+    "href": "proje.html#veride-bulunan-sütunlardaki-na-sayısı",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.2 Veride Bulunan Sütunlardaki NA Sayısı",
+    "text": "5.2 Veride Bulunan Sütunlardaki NA Sayısı\n\n\n\nVeri Setlerinde Eksik Deger (NA) Ozeti\n\n\n\n\n\n\n\n\nVeri_Seti\nToplam_Sutun_Sayisi\nNA_Iceren_Sutun_Sayisi\nToplam_NA_Sayisi\n\n\n\n\nTiyatro\n27\n27\n383\n\n\nOpera & Bale\n11\n11\n111\n\n\nSinema\n11\n11\n151\n\n\nHanehalki Tuketim\n17\n17\n176\n\n\nNufus\n5\n4\n4\n\n\n\n\n\n\n\nTabloyu Detayli Goruntulemek İcin Tiklayin\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\n2\n\n\n…2\n…2\n9\n\n\n…3\n…3\n9\n\n\n…4\n…4\n35\n\n\n…5\n…5\n7\n\n\n…6\n…6\n9\n\n\n…7\n…7\n9\n\n\n…8\n…8\n35\n\n\n…9\n…9\n8\n\n\n…10\n…10\n9\n\n\n…11\n…11\n9\n\n\n…12\n…12\n35\n\n\n…13\n…13\n8\n\n\n…14\n…14\n9\n\n\n…15\n…15\n9\n\n\n…16\n…16\n35\n\n\n…17\n…17\n7\n\n\n…18\n…18\n9\n\n\n…19\n…19\n9\n\n\n…20\n…20\n34\n\n\n…21\n…21\n8\n\n\n…22\n…22\n9\n\n\n…23\n…23\n9\n\n\n…24\n…24\n35\n\n\n…25\n…25\n8\n\n\n…26\n…26\n9\n\n\n…27\n…27\n9\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\n1\n\n\n…2\n…2\n6\n\n\n…3\n…3\n6\n\n\n…4\n…4\n32\n\n\n…5\n…5\n5\n\n\n…6\n…6\n6\n\n\n…7\n…7\n6\n\n\n…8\n…8\n32\n\n\n…9\n…9\n5\n\n\n…10\n…10\n6\n\n\n…11\n…11\n6\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\n1\n\n\n…2\n…2\n10\n\n\n…3\n…3\n10\n\n\n…4\n…4\n36\n\n\n…5\n…5\n9\n\n\n…6\n…6\n10\n\n\n…7\n…7\n10\n\n\n…8\n…8\n36\n\n\n…9\n…9\n9\n\n\n…10\n…10\n10\n\n\n…11\n…11\n10\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\n2\n\n\n…2\n…2\n11\n\n\n…3\n…3\n10\n\n\n…4\n…4\n11\n\n\n…5\n…5\n11\n\n\n…6\n…6\n11\n\n\n…7\n…7\n11\n\n\n…8\n…8\n11\n\n\n…9\n…9\n11\n\n\n…10\n…10\n11\n\n\n…11\n…11\n11\n\n\n…12\n…12\n11\n\n\n…13\n…13\n11\n\n\n…14\n…14\n11\n\n\n…15\n…15\n10\n\n\n…16\n…16\n11\n\n\n…17\n…17\n11\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nCinsiyete Göre Nüfus\nCinsiyete Göre Nüfus\n0\n\n\n…2\n…2\n1\n\n\n…3\n…3\n1\n\n\n…4\n…4\n1\n\n\n…5\n…5\n1\n\n\n\n\n\n\nVeri setlerinde görülen yüksek NA (eksik değer) sayıları, kullanılan TÜİK Excel dosyalarının yapısından kaynaklanmaktadır. TÜİK’ten dışa aktarılan bazı veri tablolarında birden fazla alt tablo aynı Excel sayfasında yer almakta ve başlık/satır yapıları standart veri formatında bulunmamaktadır. Bu nedenle veri ön işleme aşamasında gereksiz satır ve sütunlar temizlenmiş, analiz için uygun veri yapısı oluşturulmuştur. Tespit edilen NA değerlerinin önemli bir kısmı veri eksikliğinden değil, veri setinin yapısal formatından kaynaklanmaktadır."
+  },
+  {
+    "objectID": "proje.html#verilerin-özet-istatiksel-değer-tabloları",
+    "href": "proje.html#verilerin-özet-istatiksel-değer-tabloları",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.3 Verilerin Özet İstatiksel DeĞer Tabloları",
+    "text": "5.3 Verilerin Özet İstatiksel DeĞer Tabloları\n\n\n\n\n\n\n\n\nTiyatro Veri Seti Ozet İstatistikleri\n\n\n2000-2024 Yillari Arasi Genel Dagilim\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Eser\n25\n4.569\n3.437\n608\n4.252\n9.796\n\n\nOyun_Telif\n25\n3.817\n2.969\n376\n3.470\n8.392\n\n\nOyun_Ceviri\n25\n751\n478\n160\n782\n1.488\n\n\nToplam_Seyirci\n25\n4.698.386\n2.042.384\n714.864\n5.248.226\n8.053.186\n\n\nSeyirci_Telif\n25\n3.462.208\n1.614.695\n541.659\n3.854.341\n5.903.438\n\n\nSeyirci_Ceviri\n25\n1.236.178\n466.938\n173.205\n1.255.391\n2.158.041\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpera ve Bale Veri Seti Ozet Istatistikleri\n\n\n2000-2024 Yillari Arasi Genel Dagilim\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Eser\n25\n172\n49\n84\n188\n251\n\n\nYerli_Eser\n25\n81\n35\n20\n84\n143\n\n\nYabanci_Eser\n25\n91\n25\n51\n90\n136\n\n\nToplam_Seyirci\n25\n290.520\n97.200\n14.032\n281.069\n457.717\n\n\nYerliEser_Seyirci\n25\n110.845\n49.633\n6.682\n115.469\n220.172\n\n\nYabanciEser_Seyirci\n25\n179.675\n79.726\n7.350\n173.217\n426.051\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSinema Veri Seti Özet İstatistikleri\n\n\n2000-2024 Yılları Arası Genel Dağılım\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Film\n25\n38.864\n14.529\n21.254\n35.999\n68.386\n\n\nYerli_Film\n25\n14.508\n8.788\n3.302\n12.885\n30.145\n\n\nYabanci_Film\n25\n24.356\n6.108\n14.982\n23.114\n39.322\n\n\nToplam_Seyirci\n25\n34.039.420\n17.210.140\n12.418.777\n31.334.447\n68.482.526\n\n\nYerliFilm_Seyirci\n25\n16.887.844\n11.452.565\n2.079.671\n16.166.153\n39.195.881\n\n\nYabanciFilm_Seyirci\n25\n17.151.576\n6.308.873\n3.971.103\n16.114.198\n30.578.435"
+  },
+  {
+    "objectID": "proje.html#veri-setinin-kullanılacak-sütunların-ayrıştırılmış-halleri",
+    "href": "proje.html#veri-setinin-kullanılacak-sütunların-ayrıştırılmış-halleri",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.4 Veri setinin Kullanılacak Sütunların Ayrıştırılmış Halleri",
+    "text": "5.4 Veri setinin Kullanılacak Sütunların Ayrıştırılmış Halleri"
+  },
+  {
+    "objectID": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yıllar-içerisindeki-değişimi",
+    "href": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yıllar-içerisindeki-değişimi",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "6.1 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yıllar İçerisindeki Değişimi",
+    "text": "6.1 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yıllar İçerisindeki Değişimi\n\n\n\n\n\n\n\n\n\nTürkiye’de üç kültürel sektörün 2000-2024 seyirci eğilimleri hem ölçek hem dinamik açısından ayrışmaktadır. Sinema 2018’de 68 milyon seyirciyle zirveye ulaşarak kitlesel eğlencenin baskın mecrası konumunu pekiştirirken, tiyatro 2010’lardan itibaren ivme kazanarak 8 milyon seyirci sınırına yaklaşmıştır. Opera ve Bale ise 250.000–450.000 bandındaki volatil seyirci tabanıyla niş karakterini korumuştur. 2020 pandemi kırılması üç sektörü de derinden etkilemiş; sinema %97, tiyatro %91, opera %84 oranında seyirci kaybetmiştir. Toparlanma sürecinde sektörler ayrışmıştır: tiyatro 2024’te tüm zamanların zirvesine ulaşırken, sinema pandemi öncesi seviyenin yaklaşık yarısında kalmaktadır. Bu tablonun ardında dijital yayın platformlarının izleme alışkanlıklarında yarattığı yapısal dönüşüm belirleyici bir etken olarak öne çıkmaktadır."
+  },
+  {
+    "objectID": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yerliyabancı-tercihleri",
+    "href": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yerliyabancı-tercihleri",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.2 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yerli/Yabancı Tercihleri",
+    "text": "5.2 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yerli/Yabancı Tercihleri\n\n\n\n\n\n\n\n\n\nÜç sektörde de arz ve talep açısından yerli-yabancı dengesi birbirinden farklı bir yapı sergilemektedir. Opera ve Bale’de yabancı eserler hem sayı hem seyirci bakımından dönem boyunca baskın konumunu korumuş; yerli üretim ise sınırlı ve dalgalı seyretmiştir. Sinemada arz tarafında yabancı filmler sayısal üstünlüğünü sürdürse de talep tarafında yerli filmler 2010’lardan itibaren belirgin biçimde güçlenmiş ve zaman zaman yabancı filmlerin seyirci sayısını geçmiştir; bu durum, Türk sinemasının bu dönemde yaşadığı yükselişi doğrulamaktadır. Tiyatroda ise tablo tersine dönmektedir: Hem oynanan eser hem de seyirci sayısında telif (yerli) eserler çeviri eserlere kıyasla çok daha büyük bir paya sahip olup bu oran dönem boyunca istikrarlı biçimde korunmuştur."
+  },
+  {
+    "objectID": "proje.html#nüfustaki-artışa-göre-eğlence-kültür-alanına-yapılan-harcama-indeksi",
+    "href": "proje.html#nüfustaki-artışa-göre-eğlence-kültür-alanına-yapılan-harcama-indeksi",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.3 Nüfustaki Artışa Göre Eğlence-Kültür Alanına Yapılan Harcama Indeksi",
+    "text": "5.3 Nüfustaki Artışa Göre Eğlence-Kültür Alanına Yapılan Harcama Indeksi\nRegresyon trendi, nüfus büyümesiyle birlikte hanehalkının eğlence ve kültüre ayırdığı bütçe payının hafif de olsa artış eğiliminde olduğuna işaret etmektedir. Ancak noktaların trend çizgisi etrafında geniş bir dağılım sergilemesi, bu ilişkinin zayıf ve tek başına açıklayıcı olmaktan uzak olduğunu göstermektedir. Nitekim 2012 civarındaki zirve ve 2006 ile 2023’teki belirgin düşüşler, harcama payını nüfustan bağımsız olarak şekillendiren ekonomik konjonktür, enflasyon ve pandemi gibi dışsal faktörlerin belirleyiciliğini ortaya koymaktadır."
+  },
+  {
+    "objectID": "proje.html#eğlence-kültür-harcama-indeksinin-sanat-dalları-ile-kıyaslaması-regresyon-modeli-analizi",
+    "href": "proje.html#eğlence-kültür-harcama-indeksinin-sanat-dalları-ile-kıyaslaması-regresyon-modeli-analizi",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "6.4 Eğlence-Kültür Harcama İndeksinin Sanat Dalları ile Kıyaslaması (Regresyon Modeli Analizi)",
+    "text": "6.4 Eğlence-Kültür Harcama İndeksinin Sanat Dalları ile Kıyaslaması (Regresyon Modeli Analizi)\n\n\n\n\n\n\n\n\n\nÜç sektörde de hanehalki eğlence-kültür harcama payı (siyah düz çizgi) nufus büyümesiyle birlikte yataya yakın seyretmekte; yani artan nufus, kültürel harcamaları bütçedeki ağırlığını koruyacak düzeyde beraberinde getirmektedir. Seyirci trendleri ise sektörler arasında belirgin biçimde ayrışmaktadır: Sinema ve tiyatroda seyirci yoğunluğu eğrisi (kesikli çizgi) nufusla birlikte güçlü bir artış sergilemekte ve bu iki sektörün demografik büyümeden orantılı pay aldığını göstermektedir. Opera ve Bale’de ise seyirci trendi neredeyse yatay kalmakta; harcama payındaki hafif artışın bu sektöre talep olarak yansımadığı görülmektedir. Güven aralıklarının sinema ve tiyatroda görece dar, opera panelinde ise geniş olması, niş sektördeki tahmin belirsizliğini de sayısal olarak teyit etmektedir."
+  },
+  {
+    "objectID": "proje.html#veriye-genel-bakis",
+    "href": "proje.html#veriye-genel-bakis",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.1 Veriye Genel Bakis",
+    "text": "5.1 Veriye Genel Bakis\n\n\n\nHam Veri Setlerinin Boyutlari\n\n\nVeri_Seti\nSatir\nSutun\n\n\n\n\nTiyatro\n35\n27\n\n\nOpera & Bale\n32\n11\n\n\nSinema\n36\n11\n\n\nHanehalki Tuketim\n34\n17\n\n\nNufus\n35\n5\n\n\n\n\n\n\n\nTabloyu Detayli Goruntulemek İcin Tiklayin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n…12\n…13\n…14\n…15\n…16\n…17\n…18\n…19\n…20\n…21\n…22\n…23\n…24\n…25\n…26\n…27\n\n\n\n\nThe number of theatre halls, shows and audiences by season year, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nTiyatro salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of theatre halls\nNA\nNA\nTelif/Çeviri - Original/Translated\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nYetişkin/Çocuk - Adult/Children\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\n\nSezon yılı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeason year\nNA\nKoltuk sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of seats\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nGösteri sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of performances\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nGösteri sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of performances\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNA\nNA\nNA\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1999/’00\n108\n39906\nNA\n735\n547\n188\nNA\n11215\n7547\n3668\nNA\n3746162\n2376066\n1370096\nNA\n-\n-\n-\nNA\n-\n-\n-\nNA\n-\n-\n-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n…12\n…13\n…14\n…15\n…16\n…17\n\n\n\n\nDistribution of household consumption expenditures, Türkiye, 2002-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nTüketim harcaması türleri - Types of consumption expenditures (%)\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAnket yılı Survey year\nHanehalkı sayısı Number of household\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nGıda ve alkolsüz içecekler\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood and non-alcoholic beverages\nAlkollü içecekler, sigara ve tütün Alcoholic beverages, cigaratte and tobacco\nGiyim ve ayakkabı Clothing and footwear\nKonut ve kira Housing and rent\nMobilya, ev aletleri ve ev bakım hizmetleri Furniture, houses appliances and home care services\nSağlık\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealth\nUlaştırma Transportation\nHaberleşme Communication\nEğlence ve kültür Entertainment and culture\nEğitim hizmetleri Educational services\nLokanta ve oteller Restaurant and hotels\nÇeşitli mal ve hizmetler Various good and services\nSigorta ve finansal hizmetler\n\n\n\n\n\n\n\n\n\n\n\nInsurance and financial services\nKişisel bakım, sosyal koruma ve çeşitli mal ve hizmetler\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal care, social protection and miscellaneous goods and services\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2002\n16446644\n100\n26.670657052738971\n4.0592403342471854\n6.2709466966249794\n27.327770453341397\n7.2880509567412597\n2.3261812128233581\n8.6955755040030276\n4.5275968880824342\n2.4654827360897187\n1.3311347963410378\n4.4355150435928445\n4.6018483253736706\n.\n.\n\n\n\n\n\n\n\n\nCinsiyete Göre Nüfus\n…2\n…3\n…4\n…5\n\n\n\n\nYıl\nDüzey\nToplam\nErkek\nKadın\n\n\n2025\nTÜRKİYE\n86092168\n43059434\n43032734\n\n\n2024\nTÜRKİYE\n85664944\n42853110\n42811834\n\n\n2023\nTÜRKİYE\n85372377\n42734071\n42638306\n\n\n2022\nTÜRKİYE\n85279553\n42704112\n42575441\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n\n\n\n\nThe number of opera and ballet halls, seats, number of shows and audiences, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nNA\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\nSezon yılı\n\n\n\n\n\n\n\n\n\n\n\n\nSeason year\nOpera ve bale salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of opera and ballet halls\nKoltuk sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of seats\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli eser\n\n\n\n\n\n\n\n\n\n\n\nNational show\nYabancı eser\n\n\n\n\n\n\n\n\n\n\n\nForeign show\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli eser\n\n\n\n\n\n\n\n\n\n\n\nNational show\nYabancı eser\n\n\n\n\n\n\n\n\n\n\n\nForeign show\n\n\n\n\n\n\n\n\n\n\n\n\n1999/’00\n6\n3474\nNA\n94\n24\n70\nNA\n258547\n110410\n148137\n\n\n2000/’01\n6\n4391\nNA\n95\n23\n72\nNA\n207360\n47839\n159521\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n\n\n\n\nThe number of cinema halls, seats, films shown and audiences, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nSinema salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of cinema halls\nNA\nNA\nGösterilen film sayısı (2)\n\n\n\n\n\n\n\n\n\nThe number of films shown (2)\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\nYıl\n\n\n\n\n\n\n\n\n\n\n\n\nYear\nNA\nKoltuk sayısı The number of seats\nNA\nToplam\n\n\n\n\n\n\n\n\nTotal\nYerli film\n\n\n\n\n\n\n\n\n\n\n\nNational film\nYabancı film\n\n\n\n\n\n\n\n\n\n\n\nForeign film\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli film\n\n\n\n\n\n\n\n\n\n\n\nNational film\nYabancı film\n\n\n\n\n\n\n\n\n\n\n\nForeign film\n\n\n\n\n\n\n\n\n\n\n\n\n2000\n606\n200853\nNA\n24096\n4733\n19363\nNA\n17086152\n2899103\n14187049\n\n\n2001\n580\n139664\nNA\n25608\n5042\n20566\nNA\n16905737\n3289438\n13616299"
+  },
+  {
+    "objectID": "proje.html#veride-bulunan-sutunlardaki-na-sayisi",
+    "href": "proje.html#veride-bulunan-sutunlardaki-na-sayisi",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.2 Veride Bulunan Sutunlardaki NA Sayisi",
+    "text": "5.2 Veride Bulunan Sutunlardaki NA Sayisi\n\n\n\nVeri Setlerinde Eksik Deger (NA) Ozeti\n\n\n\n\n\n\n\n\nVeri_Seti\nToplam_Sutun_Sayisi\nNA_Iceren_Sutun_Sayisi\nToplam_NA_Sayisi\n\n\n\n\nTiyatro\n27\n27\n383\n\n\nOpera & Bale\n11\n11\n111\n\n\nSinema\n11\n11\n151\n\n\nHanehalki Tuketim\n17\n17\n176\n\n\nNufus\n5\n4\n4\n\n\n\n\n\n\n\nTabloyu Detayli Goruntulemek İcin Tiklayin\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\n2\n\n\n…2\n…2\n9\n\n\n…3\n…3\n9\n\n\n…4\n…4\n35\n\n\n…5\n…5\n7\n\n\n…6\n…6\n9\n\n\n…7\n…7\n9\n\n\n…8\n…8\n35\n\n\n…9\n…9\n8\n\n\n…10\n…10\n9\n\n\n…11\n…11\n9\n\n\n…12\n…12\n35\n\n\n…13\n…13\n8\n\n\n…14\n…14\n9\n\n\n…15\n…15\n9\n\n\n…16\n…16\n35\n\n\n…17\n…17\n7\n\n\n…18\n…18\n9\n\n\n…19\n…19\n9\n\n\n…20\n…20\n34\n\n\n…21\n…21\n8\n\n\n…22\n…22\n9\n\n\n…23\n…23\n9\n\n\n…24\n…24\n35\n\n\n…25\n…25\n8\n\n\n…26\n…26\n9\n\n\n…27\n…27\n9\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\n1\n\n\n…2\n…2\n6\n\n\n…3\n…3\n6\n\n\n…4\n…4\n32\n\n\n…5\n…5\n5\n\n\n…6\n…6\n6\n\n\n…7\n…7\n6\n\n\n…8\n…8\n32\n\n\n…9\n…9\n5\n\n\n…10\n…10\n6\n\n\n…11\n…11\n6\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\n1\n\n\n…2\n…2\n10\n\n\n…3\n…3\n10\n\n\n…4\n…4\n36\n\n\n…5\n…5\n9\n\n\n…6\n…6\n10\n\n\n…7\n…7\n10\n\n\n…8\n…8\n36\n\n\n…9\n…9\n9\n\n\n…10\n…10\n10\n\n\n…11\n…11\n10\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\n\n\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\n2\n\n\n…2\n…2\n11\n\n\n…3\n…3\n10\n\n\n…4\n…4\n11\n\n\n…5\n…5\n11\n\n\n…6\n…6\n11\n\n\n…7\n…7\n11\n\n\n…8\n…8\n11\n\n\n…9\n…9\n11\n\n\n…10\n…10\n11\n\n\n…11\n…11\n11\n\n\n…12\n…12\n11\n\n\n…13\n…13\n11\n\n\n…14\n…14\n11\n\n\n…15\n…15\n10\n\n\n…16\n…16\n11\n\n\n…17\n…17\n11\n\n\n\n\n\n\nSutun Isimleri ve Eksik Veri (NA) Sayilari\n\n\n\nSutun_Adi\nNA_Sayisi\n\n\n\n\nCinsiyete Göre Nüfus\nCinsiyete Göre Nüfus\n0\n\n\n…2\n…2\n1\n\n\n…3\n…3\n1\n\n\n…4\n…4\n1\n\n\n…5\n…5\n1\n\n\n\n\n\n\nVeri setlerinde görülen yüksek NA (eksik değer) sayıları, kullanılan TÜİK Excel dosyalarının yapısından kaynaklanmaktadır. TÜİK’ten dışa aktarılan bazı veri tablolarında birden fazla alt tablo aynı Excel sayfasında yer almakta ve başlık/satır yapıları standart veri formatında bulunmamaktadır. Bu nedenle veri ön işleme aşamasında gereksiz satır ve sütunlar temizlenmiş, analiz için uygun veri yapısı oluşturulmuştur. Tespit edilen NA değerlerinin önemli bir kısmı veri eksikliğinden değil, veri setinin yapısal formatından kaynaklanmaktadır."
+  },
+  {
+    "objectID": "proje.html#verilerin-ozet-istatiksel-deger-tablolari",
+    "href": "proje.html#verilerin-ozet-istatiksel-deger-tablolari",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.3 Verilerin Ozet Istatiksel Deger Tablolari",
+    "text": "5.3 Verilerin Ozet Istatiksel Deger Tablolari\n\n\n\n\n\n\n\n\nTiyatro Veri Seti Ozet İstatistikleri\n\n\n2000-2024 Yillari Arasi Genel Dagilim\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Eser\n25\n4.569\n3.437\n608\n4.252\n9.796\n\n\nOyun_Telif\n25\n3.817\n2.969\n376\n3.470\n8.392\n\n\nOyun_Ceviri\n25\n751\n478\n160\n782\n1.488\n\n\nToplam_Seyirci\n25\n4.698.386\n2.042.384\n714.864\n5.248.226\n8.053.186\n\n\nSeyirci_Telif\n25\n3.462.208\n1.614.695\n541.659\n3.854.341\n5.903.438\n\n\nSeyirci_Ceviri\n25\n1.236.178\n466.938\n173.205\n1.255.391\n2.158.041\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpera ve Bale Veri Seti Ozet Istatistikleri\n\n\n2000-2024 Yillari Arasi Genel Dagilim\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Eser\n25\n172\n49\n84\n188\n251\n\n\nYerli_Eser\n25\n81\n35\n20\n84\n143\n\n\nYabanci_Eser\n25\n91\n25\n51\n90\n136\n\n\nToplam_Seyirci\n25\n290.520\n97.200\n14.032\n281.069\n457.717\n\n\nYerliEser_Seyirci\n25\n110.845\n49.633\n6.682\n115.469\n220.172\n\n\nYabanciEser_Seyirci\n25\n179.675\n79.726\n7.350\n173.217\n426.051\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSinema Veri Seti Özet İstatistikleri\n\n\n2000-2024 Yılları Arası Genel Dağılım\n\n\n\nGozlem (Yil)\nOrtalama\nStd. Sapma\nEn Dusuk\nMedyan\nEn Yuksek\n\n\n\n\nToplam_Film\n25\n38.864\n14.529\n21.254\n35.999\n68.386\n\n\nYerli_Film\n25\n14.508\n8.788\n3.302\n12.885\n30.145\n\n\nYabanci_Film\n25\n24.356\n6.108\n14.982\n23.114\n39.322\n\n\nToplam_Seyirci\n25\n34.039.420\n17.210.140\n12.418.777\n31.334.447\n68.482.526\n\n\nYerliFilm_Seyirci\n25\n16.887.844\n11.452.565\n2.079.671\n16.166.153\n39.195.881\n\n\nYabanciFilm_Seyirci\n25\n17.151.576\n6.308.873\n3.971.103\n16.114.198\n30.578.435"
+  },
+  {
+    "objectID": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yerliyabanci-tercihleri",
+    "href": "proje.html#operabale-sinema-ve-tiyatro-seyirci-kitlesinin-yerliyabanci-tercihleri",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "6.2 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yerli/Yabanci Tercihleri",
+    "text": "6.2 Opera&Bale, Sinema ve Tiyatro Seyirci Kitlesinin Yerli/Yabanci Tercihleri\n\n\n\n\n\n\n\n\n\nÜç sektörde de arz ve talep açısından yerli-Yabanci dengesi birbirinden farklı bir yapı sergilemektedir. Opera ve Bale’de Yabanci eserler hem sayı hem seyirci bakımından dönem boyunca baskın konumunu korumuş; yerli üretim ise sınırlı ve dalgalı seyretmiştir. Sinemada arz tarafında Yabanci filmler sayısal üstünlüğünü sürdürse de talep tarafında yerli filmler 2010’lardan itibaren belirgin biçimde güçlenmiş ve zaman zaman Yabanci filmlerin seyirci sayısını geçmiştir; bu durum, Türk sinemasının bu dönemde yaşadığı yükselişi doğrulamaktadır. Tiyatroda ise tablo tersine dönmektedir: Hem oynanan eser hem de seyirci sayısında telif (yerli) eserler çeviri eserlere kıyasla çok daha büyük bir paya sahip olup bu oran dönem boyunca istikrarlı biçimde korunmuştur."
+  },
+  {
+    "objectID": "proje.html#nufustaki-artışa-göre-eğlence-kültür-alanına-yapılan-harcama-indeksi",
+    "href": "proje.html#nufustaki-artışa-göre-eğlence-kültür-alanına-yapılan-harcama-indeksi",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "6.3 nufustaki Artışa Göre Eğlence-Kültür Alanına Yapılan Harcama Indeksi",
+    "text": "6.3 nufustaki Artışa Göre Eğlence-Kültür Alanına Yapılan Harcama Indeksi\n\n\n\n\n\n\n\n\n\nRegresyon trendi, nufus büyümesiyle birlikte hanehalkinın eğlence ve kültüre ayırdığı bütçe payının hafif de olsa artış eğiliminde olduğuna işaret etmektedir. Ancak noktaların trend çizgisi etrafında geniş bir dağılım sergilemesi, bu ilişkinin zayıf ve tek başına açıklayıcı olmaktan uzak olduğunu göstermektedir. Nitekim 2012 civarındaki zirve ve 2006 ile 2023’teki belirgin düşüşler, harcama payını nufustan bağımsız olarak şekillendiren ekonomik konjonktür, enflasyon ve pandemi gibi dışsal faktörlerin belirleyiciliğini ortaya koymaktadır."
+  },
+  {
+    "objectID": "proje.html#veriye-genel-bakış",
+    "href": "proje.html#veriye-genel-bakış",
+    "title": "ALKIŞ ANALİTİĞİ - VERİLERLE TÜRKİYE’NİN SAHNE YOLCULUĞU",
+    "section": "5.1 Veriye Genel Bakış",
+    "text": "5.1 Veriye Genel Bakış\n\n\n\nHam Veri Setlerinin Boyutlari\n\n\nVeri_Seti\nSatir\nSutun\n\n\n\n\nTiyatro\n35\n27\n\n\nOpera & Bale\n32\n11\n\n\nSinema\n36\n11\n\n\nHanehalki Tuketim\n34\n17\n\n\nNufus\n35\n5\n\n\n\n\n\n\n\nTabloyu Detayli Goruntulemek İcin Tiklayin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSezon yılına göre tiyatro salonu, oynanan eser ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n…12\n…13\n…14\n…15\n…16\n…17\n…18\n…19\n…20\n…21\n…22\n…23\n…24\n…25\n…26\n…27\n\n\n\n\nThe number of theatre halls, shows and audiences by season year, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nTiyatro salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of theatre halls\nNA\nNA\nTelif/Çeviri - Original/Translated\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nYetişkin/Çocuk - Adult/Children\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\n\nSezon yılı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeason year\nNA\nKoltuk sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of seats\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nGösteri sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of performances\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nGösteri sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of performances\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNA\nNA\nNA\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nTelif\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOriginal\nÇeviri\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslated\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nYetişkin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdult\nÇocuk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1999/’00\n108\n39906\nNA\n735\n547\n188\nNA\n11215\n7547\n3668\nNA\n3746162\n2376066\n1370096\nNA\n-\n-\n-\nNA\n-\n-\n-\nNA\n-\n-\n-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHanehalkı tüketim harcamasının türlerine göre dağılımı, Türkiye, 2002-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n…12\n…13\n…14\n…15\n…16\n…17\n\n\n\n\nDistribution of household consumption expenditures, Türkiye, 2002-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nTüketim harcaması türleri - Types of consumption expenditures (%)\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAnket yılı Survey year\nHanehalkı sayısı Number of household\nToplam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal\nGıda ve alkolsüz içecekler\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood and non-alcoholic beverages\nAlkollü içecekler, sigara ve tütün Alcoholic beverages, cigaratte and tobacco\nGiyim ve ayakkabı Clothing and footwear\nKonut ve kira Housing and rent\nMobilya, ev aletleri ve ev bakım hizmetleri Furniture, houses appliances and home care services\nSağlık\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealth\nUlaştırma Transportation\nHaberleşme Communication\nEğlence ve kültür Entertainment and culture\nEğitim hizmetleri Educational services\nLokanta ve oteller Restaurant and hotels\nÇeşitli mal ve hizmetler Various good and services\nSigorta ve finansal hizmetler\n\n\n\n\n\n\n\n\n\n\n\nInsurance and financial services\nKişisel bakım, sosyal koruma ve çeşitli mal ve hizmetler\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal care, social protection and miscellaneous goods and services\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2002\n16446644\n100\n26.670657052738971\n4.0592403342471854\n6.2709466966249794\n27.327770453341397\n7.2880509567412597\n2.3261812128233581\n8.6955755040030276\n4.5275968880824342\n2.4654827360897187\n1.3311347963410378\n4.4355150435928445\n4.6018483253736706\n.\n.\n\n\n\n\n\n\n\n\nCinsiyete Göre Nüfus\n…2\n…3\n…4\n…5\n\n\n\n\nYıl\nDüzey\nToplam\nErkek\nKadın\n\n\n2025\nTÜRKİYE\n86092168\n43059434\n43032734\n\n\n2024\nTÜRKİYE\n85664944\n42853110\n42811834\n\n\n2023\nTÜRKİYE\n85372377\n42734071\n42638306\n\n\n2022\nTÜRKİYE\n85279553\n42704112\n42575441\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpera ve bale salonu, koltuk, oynanan eser ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n\n\n\n\nThe number of opera and ballet halls, seats, number of shows and audiences, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNA\nNA\nNA\nOynanan eser sayısı\n\n\n\n\n\n\n\n\nThe number of shows\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\nSezon yılı\n\n\n\n\n\n\n\n\n\n\n\n\nSeason year\nOpera ve bale salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of opera and ballet halls\nKoltuk sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of seats\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli eser\n\n\n\n\n\n\n\n\n\n\n\nNational show\nYabancı eser\n\n\n\n\n\n\n\n\n\n\n\nForeign show\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli eser\n\n\n\n\n\n\n\n\n\n\n\nNational show\nYabancı eser\n\n\n\n\n\n\n\n\n\n\n\nForeign show\n\n\n\n\n\n\n\n\n\n\n\n\n1999/’00\n6\n3474\nNA\n94\n24\n70\nNA\n258547\n110410\n148137\n\n\n2000/’01\n6\n4391\nNA\n95\n23\n72\nNA\n207360\n47839\n159521\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSinema salonu, koltuk, gösterilen film ve seyirci sayısı, 2000-2024\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n…10\n…11\n\n\n\n\nThe number of cinema halls, seats, films shown and audiences, 2000-2024\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nSinema salonu sayısı\n\n\n\n\n\n\n\n\n\n\n\nThe number of cinema halls\nNA\nNA\nGösterilen film sayısı (2)\n\n\n\n\n\n\n\n\n\nThe number of films shown (2)\nNA\nNA\nNA\nSeyirci sayısı\n\n\n\n\n\n\n\n\nThe number of audiences\nNA\nNA\n\n\n\n\n\n\n\n\n\n\nYıl\n\n\n\n\n\n\n\n\n\n\n\n\nYear\nNA\nKoltuk sayısı The number of seats\nNA\nToplam\n\n\n\n\n\n\n\n\nTotal\nYerli film\n\n\n\n\n\n\n\n\n\n\n\nNational film\nYabancı film\n\n\n\n\n\n\n\n\n\n\n\nForeign film\nNA\nToplam\n\n\n\n\n\n\n\n\n\n\nTotal\nYerli film\n\n\n\n\n\n\n\n\n\n\n\nNational film\nYabancı film\n\n\n\n\n\n\n\n\n\n\n\nForeign film\n\n\n\n\n\n\n\n\n\n\n\n\n2000\n606\n200853\nNA\n24096\n4733\n19363\nNA\n17086152\n2899103\n14187049\n\n\n2001\n580\n139664\nNA\n25608\n5042\n20566\nNA\n16905737\n3289438\n13616299"
   }
 ]

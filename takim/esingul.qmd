@@ -1,0 +1,44 @@
+---
+title: "Esin Gül"
+sidebar: false 
+---
+
+![](bob-kevin-stuart-in-minions-3840x2160.jpg){fig-align="center" width="400"}
+
+[CV](esingul_cv.pdf)
+
+# Eğitim
+
+-   B.S., Elektronik ve Haberleşme Mühendisliği, Çankaya Üniversitesi, 2010-2015.
+-   M.Sc., Nanoteknoloji ve Nanotıp, Hacettepe Üniversitesi, 2016-2019.
+-   M.Sc., Mühendislik Yönetimi, Hacettepe Üniversitesi, 2025-...
+
+# İş Tecrübesi
+
+1.  ODTÜ MEMS Merkezi, Araştırmacı (2019-2024).
+
+2.  Hacettepe Üniversitesi Elektrik Elektronik Mühendisliği, Lisansüstü Proje Asistanı (2018-2019).
+
+# Stajlar
+
+1.  TUSAŞ, 2012.
+
+2.  TRT, 2013.
+
+# Yayınlar
+
+1.  E. Gul & D. Gokcen, “Active Memristive Layer Deposition via Mn(II)-Assisted Anodic Oxidation of Titanium”, ECS Journal of Solid State Science and Technology, vol. 9, no. 5, 2020.
+
+```         
+DOI: 10.1149/2162-8777/ab9519
+```
+
+# Mesleki Beceriler
+
+-   Temiz Alan Mikrofabrikasyon ve Karakterizasyon
+
+-   Matlab, Comsol, Origin
+
+# Hobiler
+
+Yağlıboya, Puzzle, Dans
